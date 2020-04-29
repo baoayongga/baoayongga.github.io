@@ -1,32 +1,31 @@
 ---
-layout: links     # ±ØĞë
-title: ÎÒµÄÅóÓÑÃÇ   # ¿ÉÑ¡£¬ÕâÊÇÓÑÁ´Ò³µÄ±êÌâ
+layout: links     # å¿…é¡»
+title: æˆ‘çš„æœ‹å‹ä»¬   # å¯é€‰ï¼Œè¿™æ˜¯å‹é“¾é¡µçš„æ ‡é¢˜
 links:
-  - group: ·Ö×é1
+  - group: åˆ†ç»„1
     icon: fas fa-user-tie
-    desc: Õâ¸ö·Ö×éµÄÃèÊö
+    desc: è¿™ä¸ªåˆ†ç»„çš„æè¿°
     items:
-    - name:     # ²©¿ÍÃû
-      avatar:   # Í·ÏñÁ´½Ó
-      url:      # ²©¿ÍÁ´½Ó
-      backgroundColor: '#3E74C9' # ¿¨Æ¬±³¾°ÑÕÉ«
-      textColor: '#fff'  # ¿¨Æ¬ÎÄ×ÖÑÕÉ«
-      tags: [±êÇ©1, ±êÇ©2]    # ±êÇ©
-      desc: ÃèÊöÎÄ×Ö
-  - group: ·Ö×é2
+    - name:     # åšå®¢å
+      avatar:   # å¤´åƒé“¾æ¥
+      url:      # åšå®¢é“¾æ¥
+      backgroundColor: '#3E74C9' # å¡ç‰‡èƒŒæ™¯é¢œè‰²
+      textColor: '#fff'  # å¡ç‰‡æ–‡å­—é¢œè‰²
+      tags: [æ ‡ç­¾1, æ ‡ç­¾2]    # æ ‡ç­¾
+      desc: æè¿°æ–‡å­—
+  - group: åˆ†ç»„2
     icon: fas fa-user-tie
-    desc: Õâ¸ö·Ö×éµÄÃèÊö
+    desc: è¿™ä¸ªåˆ†ç»„çš„æè¿°
     items:
-    - name:     # ²©¿ÍÃû
-      avatar:   # Í·ÏñÁ´½Ó
-      url:      # ²©¿ÍÁ´½Ó
-      backgroundColor: '#3E74C9' # ¿¨Æ¬±³¾°ÑÕÉ«
-      textColor: '#fff'  # ¿¨Æ¬ÎÄ×ÖÑÕÉ«
-      tags: [±êÇ©1, ±êÇ©2]    # ±êÇ©
-      desc: ÃèÊöÎÄ×Ö
+    - name:     # åšå®¢å
+      avatar:   # å¤´åƒé“¾æ¥
+      url:      # åšå®¢é“¾æ¥
+      backgroundColor: '#3E74C9' # å¡ç‰‡èƒŒæ™¯é¢œè‰²
+      textColor: '#fff'  # å¡ç‰‡æ–‡å­—é¢œè‰²
+      tags: [æ ‡ç­¾1, æ ‡ç­¾2]    # æ ‡ç­¾
+      desc: æè¿°æ–‡å­—
 ---
 
-´ıÌí¼Ó
+å¾…æ·»åŠ 
 
 <!-- more -->
-
