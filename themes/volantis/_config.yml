@@ -105,11 +105,11 @@ cover:
   subtitle: 'ᠮᠤᠩᠭ᠋ᠤᠯ '
   search: # search bar placeholder
   features:
-    - name: 文档
-      icon: fas fa-book
+    - name: 主页
+      icon: fas fa-home
       url: https://na1r.com/
-    - name: 博文
-      icon: fas fa-rss
+    - name: 归档
+      icon: fas fa-book
       url: https://na1r.com/archives/
 
 
@@ -118,7 +118,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img:
     icon:
-    title:
+    title: 无尽光芒g
   menu:
     # The following can be written in `blog/source/_data/menu.yml`
     - name: 博客
@@ -557,7 +557,7 @@ search:
 
 ############################### Theme Information ###############################
 info:
-  name: Na1r # This is theme's name.
+  name: volantis # This is theme's name.
   version: ' ' # This is theme's version.
   docs: https://volantis.js.org/ # This is theme's URL.
   cdn:
